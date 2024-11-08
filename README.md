@@ -6,3 +6,7 @@ I’m a Data Scientist by training and a Research Data Engineer by experience. I
 
 ‼️ Having recently relocated to India, I'm actively looking for data scientist positions in India. Preferably remote or hybrid in Bangalore, Chennai or Hyderabad. ‼️
 
+[![Static Badge](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-green)](https://github.com/Arshitha/Arshitha/blob/main/CV.pdf)
+
+
+
