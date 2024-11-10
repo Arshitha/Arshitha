@@ -4,7 +4,7 @@
 
 I’m a Data Scientist by training and a Research Data Engineer by experience. I spent 5 years till October 2024 on the [Data Science and Sharing Team (DSST)](https://cmn.nimh.nih.gov/dsst) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, USA. At DSST, I focussed on building data pipelines, standardizing and sharing large multimodal datasets, and training researchers in open science practices. 
 
-‼️ Having recently relocated to India, I'm actively looking for data scientist positions in India. Preferably remote or hybrid in Bangalore, Chennai or Hyderabad. ‼️
+‼️ Having recently relocated, I'm actively looking for data scientist positions in India. Preferably remote or hybrid in Bangalore, Chennai or Hyderabad. ‼️
 
 [![Static Badge](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-green)](https://github.com/Arshitha/Arshitha/blob/main/CV.pdf)
 
