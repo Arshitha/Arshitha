@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshitha/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=Social&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZAbI7VsAAAAJ) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=Social&logo=protonmail&logoColor=white)](mailto:arshithab@proton.me)
 
-I’m a Data Scientist by training and a Research Data Engineer with 5+ years of experience, including 2 years in project-based machine learning. I currently work as a Research Scientist on ICMR’s PARAM project, a multi-modal longitudinal study, where I build data pipelines, standardize datasets, and improve data quality.
+I’m a Data Scientist by training and a Research Data Engineer with 5+ years of experience. I currently work as a Research Scientist on ICMR’s PARAM project, a multi-modal longitudinal study, where I build data pipelines, standardize datasets, and improve data quality.
 
 I’m eager to transition into a dedicated data science role, bringing expertise in ETL processes, pipeline development, large-scale data infrastructure, and hands-on ML coding and pipeline building.
 
