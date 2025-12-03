@@ -6,9 +6,9 @@ I’m a Data Scientist by training and a Research Data Engineer with 5+ years of
 
 I’m eager to transition into a dedicated data science role, bringing expertise in ETL processes, pipeline development, large-scale data infrastructure, and hands-on ML coding and pipeline building.
 
-For more information, check out my resume at https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20250922.pdf or by clicking on the button below 👇🏽
+For more information, check out my resume at [https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20250922.pdf](https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20251203.pdf) or by clicking on the button below 👇🏽
 
-[![Static Badge](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-green)](https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20250922.pdf)
+[![Static Badge](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-green)](https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20251203.pdf)
 
 
 
