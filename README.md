@@ -4,7 +4,7 @@
 
 I'm a Data Scientist by training and a Data Engineer with 5+ years of experience. I currently work at Pfizer Global Supply (PGS) Digital, where I lead data quality efforts with a focus on agentic solutions. Before this, I worked on ICMR's PARAM project, a multi-modal longitudinal study, building data pipelines, standardizing datasets, and improving data quality.
 
-For more information, check out my resume at https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20251203.pdf or by clicking on the button below 👇🏽
+For more information, check out my resume at https://github.com/Arshitha/Arshitha/blob/main/Arshitha_Resume_20251203.pdf
 
 
 
